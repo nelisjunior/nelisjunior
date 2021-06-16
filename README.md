@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @VanJack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou o Nelis Arruda;
+- 🎓 Sou aluno do curso Interdisciplinar em Ciências e Tecnologias da UFRN, e irei iniciar no próximo ano, a ênfase em Negócios Tecnológicos;
+- 👀 Estou interessado pela área de desenvolvimento Web Full-Stack;
+- 🌱 Atualmente estou aprendendo c++[disciplina obrigatória] e Javascript[por conta própria];
+- 💞️ Tenho planos para ainda este ano iniciar em algum estágio, e em breve trabalhar de forma efetiva;
+- 📫 Contato: nelisxxi@gmail.com | Whatsapp https://wa.me/5584996668551
 
 <!---
 VanJack/VanJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
