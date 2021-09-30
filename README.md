@@ -1,9 +1,9 @@
 - 👋 Olá, eu sou o Nelis Arruda;
 - 🎓 Sou aluno do curso Interdisciplinar em Ciências e Tecnologias da UFRN, e irei iniciar no próximo ano, a ênfase em Negócios Tecnológicos;
-- 👀 Estou interessado pela área de desenvolvimento Web Full-Stack;
-- 🌱 Atualmente estou aprendendo c++[disciplina obrigatória] e Javascript[por conta própria];
-- 💞️ Tenho planos para ainda este ano iniciar em algum estágio, e em breve trabalhar de forma efetiva;
-- 📫 Contato: nelisxxi@gmail.com
+- 👀 Estou interessado pela área de desenvolvimento Web Full-Stack, Ciencia de dados e "tecnologias 4.0";
+- 🌱 Atualmente estou em um bootcamp de React da [Digital Innovation One](https://digitalinnovation.one) estudando SQL em paralelo;
+- 💞️ Tenho planos para ainda este ano iniciar em algum estágio, e em breve trabalhar efetivamente na minha área de formação.
+- 📫 Contato: nelisn.contato@gmail.com
 
 <!---
 VanJack/VanJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
