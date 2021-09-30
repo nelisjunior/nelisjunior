@@ -4,6 +4,9 @@
 - 🌱 I am currently in a React bootcamp at [Digital Innovation One](https://digitalinnovation.one) studying SQL in parallel;
 - 💞️ I have plans to start at some stage this year, and soon work effectively in my training area.
 - 📫 Contact: nelisn.contato@gmail.com
+- ---
+Soon I will add copyright repositories. All the ones I've worked with were from third parties, or just experimental repositories.
+Access: https://github.com/organizations/nelis-lab
 
 <!---
 VanJack/VanJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
