@@ -6,7 +6,7 @@
 - 📫 Contact: nelisn.contato@gmail.com
 - ---
 Soon I will add copyright repositories. All the ones I've worked with were from third parties, or just experimental repositories.
-Access: https://github.com/organizations/nelis-lab
+Access: https://github.com/nelis-lab
 
 <!---
 VanJack/VanJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
