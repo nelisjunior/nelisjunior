@@ -1,9 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=nelisjunior&label=Views+since+23+april+22&style=for-the-badge&color=brightgreen)
 
 ## Social Media
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/nelisjunior/)
-[<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nelisjunior/)
-## Status
+
+
+<a href="https://github.com/nelisjunior/" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/nelisjunior/" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+## Metrics
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nelisjunior&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
