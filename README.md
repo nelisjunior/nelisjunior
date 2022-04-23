@@ -1,4 +1,3 @@
-# About me
 ![](https://komarev.com/ghpvc/?username=nelisjunior&label=Views+since+23+april+22&style=for-the-badge&color=brightgreen)
 
 ## Social Media
