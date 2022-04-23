@@ -1,14 +1,9 @@
-- 👋 Hi, I'm Nelis Arruda;
-- 🎓 I am a student of the Interdisciplinary course in Science and Technology at UFRN, and I will start next year, the emphasis on Technological Business;
-- 👀 I'm interested in the area of Full-Stack Web Development, Data Science and "Technologies 4.0";
-- 🌱 I am currently in a React bootcamp at [Digital Innovation One](https://digitalinnovation.one) studying SQL in parallel;
-- 💞️ I have plans to start at some stage this year, and soon work effectively in my training area.
-- 📫 Contact: nelisn.contato@gmail.com
-- ---
-Soon I will add copyright repositories. All the ones I've worked with were from third parties, or just experimental repositories.
-Access: https://github.com/nelis-lab
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<!---
-VanJack/VanJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/nelisjunior/)
+[<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nelisjunior/)
