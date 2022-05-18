@@ -2,13 +2,19 @@
 
 ## Social Media
 
-
 <a href="https://github.com/nelisjunior/" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/nelisjunior/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+## Some one of my small projects working
+
+- [aula-bootstrap](https://aula-bootstrap.nelis.me/)
+  - **Repo:** https://github.com/nelisjunior/aula_bootstrap
+- [TrekFlix](https://trekflix.nelis.me/)
+  - **Repo:** https://github.com/nelisjunior/trekflix_clone
 
 ## Metrics
 
