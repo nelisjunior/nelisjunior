@@ -11,9 +11,9 @@
 
 ## Some one of my small projects working
 
-- [aula-bootstrap](https://aula-bootstrap.nelis.me/)
+### [aula-bootstrap](https://aula-bootstrap.nelis.me/)
   - **Repo:** https://github.com/nelisjunior/aula_bootstrap
-- [TrekFlix](https://trekflix.nelis.me/)
+### [TrekFlix](https://trekflix.nelis.me/)
   - **Repo:** https://github.com/nelisjunior/trekflix_clone
 
 ## Metrics
