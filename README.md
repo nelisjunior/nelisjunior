@@ -8,6 +8,12 @@
 <a href="https://www.linkedin.com/in/nelisjunior/" target="_blank" rel="noopener noreferrer">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
 </a>
+<a href="www.codewars.com/r/VS-E8A" target="_blank" rel="noopener noreferrer">
+  <img alt="Linkedin" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" target="_blank" rel="noopener noreferrer"/>
+</a>
+
+
+
 
 ## Some one of my small projects working
 
