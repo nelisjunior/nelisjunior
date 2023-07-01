@@ -12,6 +12,15 @@
   <img alt="CodeWars" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg?&style=for-the-badge&logo=CodeWars&logoColor=white"  width="30" height="30" target="_blank" rel="noopener noreferrer"/>
 </a>
 
+## My Referrals
+
+<a href="https://www.digitalocean.com/?refcode=331b4185ec1d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+  <img alt="DigitalOcean Referral Badge" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" width="150" target="_blank" rel="noopener noreferrer"/>
+</a>
+<a href="https://www.dio.me/sign-up?ref=nelis_expert">
+  <img alt="DigitalInnovation Referral Badge" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"  width="120" target="_blank" rel="noopener noreferrer"/>
+</a>
+
 
 
 
