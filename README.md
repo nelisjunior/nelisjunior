@@ -9,7 +9,7 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
 </a>
 <a href="https://www.codewars.com/r/VS-E8A" target="_blank" rel="noopener noreferrer">
-  <img alt="CodeWars" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg?&style=for-the-badge&logo=CodeWars&logoColor=white"  width="30" height="30" target="_blank" rel="noopener noreferrer"/>
+  <img alt="CodeWars" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg?&style=for-the-badge&logo=CodeWars&logoColor=white"  width="30" height="30" target="_blank" rel="noopener noreferrer"/>
 </a>
 
 ## My Referrals
