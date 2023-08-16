@@ -17,6 +17,7 @@
 <a href="https://www.digitalocean.com/?refcode=331b4185ec1d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
   <img alt="DigitalOcean Referral Badge" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" width="150" target="_blank" rel="noopener noreferrer"/>
 </a>
+
 <a href="https://www.dio.me/sign-up?ref=nelis_expert">
   <img alt="DigitalInnovation Referral Badge" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"  width="120" target="_blank" rel="noopener noreferrer"/>
 </a>
@@ -31,10 +32,11 @@
 
 ## Some one of my small projects working
 
-### [aula-bootstrap](https://aula-bootstrap.nelis.me/)
-  - **Repo:** https://github.com/nelisjunior/aula_bootstrap
-### [TrekFlix](https://trekflix.nelis.me/)
-  - **Repo:** https://github.com/nelisjunior/trekflix_clone
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nelisjunior&repo=trekflix_clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E9AD5F&text_color=FFF)](https://trekflix.nelis.me/)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nelisjunior&repo=aula_bootstrap&bg_color=000&border_color=30B3DC&show_icons=true&icon_color=30A3DC&title_color=9A2EFE&text_color=FFF)](https://aula-bootstrap.nelis.me/)
+
 
 ## Languages
 
@@ -56,22 +58,25 @@
 ## Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f18f10?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ## Frameworks and Libraries
 <p>
-  <img src="https://i.imgur.com/0shAR1G.png" width="60" height="30" alt="Webfocus" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://i.imgur.com/0shAR1G.png" width="60" height="30" alt="Webfocus" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-05988A?style=for-the-badge&logo=FastAPI&logoColor=white" />
 </p>
 
 ## Tools
 <p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-f97a12?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -79,8 +84,9 @@
 </p>
 
 
-**Github Skyline:** 
-  - [2023](https://skyline.github.com/nelisjunior/2023)
-  - [2022](https://skyline.github.com/nelisjunior/2022)
-  - [2021](https://skyline.github.com/nelisjunior/2021)
+**Github Skyline:**
+- [2023](https://skyline.github.com/nelisjunior/2023)
+- [2022](https://skyline.github.com/nelisjunior/2022)
+- [2021](https://skyline.github.com/nelisjunior/2021)
 
+fastapi/:FastAPI/:s
