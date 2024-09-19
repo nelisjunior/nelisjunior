@@ -18,8 +18,12 @@
   <img alt="DigitalOcean Referral Badge" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" width="150" target="_blank" rel="noopener noreferrer"/>
 </a>
 
-<a href="https://www.dio.me/sign-up?ref=nelis_expert">
+<a href="https://www.dio.me/sign-up?ref=AFCUF00V3E44">
   <img alt="DigitalInnovation Referral Badge" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"  width="120" target="_blank" rel="noopener noreferrer"/>
+</a>
+
+<a href="https://edit.paperpal.com/sign-up?referral_code=PAPERPAL_PQRDP">
+  <img alt="DigitalInnovation Referral Badge" src="https://edit.paperpal.com/r-paperpal-logo.svg"  width="120" target="_blank" rel="noopener noreferrer"/>
 </a>
 
 ## Metrics
