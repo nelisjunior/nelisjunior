@@ -63,6 +63,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-f18f10?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
@@ -75,6 +76,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-05988A?style=for-the-badge&logo=FastAPI&logoColor=white" />
+    <img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black" />
+   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white" />
 </p>
 
 ## Tools
