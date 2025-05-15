@@ -5,6 +5,7 @@
 <a href="https://github.com/nelisjunior/" target="_blank" rel="noopener noreferrer">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/nelisjunior/" target="_blank" rel="noopener noreferrer">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
 </a>
@@ -16,6 +17,10 @@
 
 <a href="https://www.digitalocean.com/?refcode=331b4185ec1d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
   <img alt="DigitalOcean Referral Badge" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" width="150" target="_blank" rel="noopener noreferrer"/>
+</a>
+
+<a href="https://replit.com/refer/nelisjunior">
+  <img alt="Replit Referral Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="7%" target="_blank" rel="noopener noreferrer"/>
 </a>
 
 <a href="https://www.dio.me/sign-up?ref=AFCUF00V3E44">
