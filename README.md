@@ -15,8 +15,15 @@
 
 ## My Referrals
 
+> Please, be my guest to sign up some of these Websites and enjoy the experience.
+> Just click in the images.
+
 <a href="https://www.digitalocean.com/?refcode=331b4185ec1d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
   <img alt="DigitalOcean Referral Badge" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" width="150" target="_blank" rel="noopener noreferrer"/>
+</a>
+
+<a href="https://rewards.bing.com/welcome?rh=EF570473&ref=rafsrchae" target="_blank" rel="noopener noreferrer">
+  <img alt="Microsoft Rewards" src="https://rewards.bing.com/rewardscdn/images/rewards.png" width="5%"/>
 </a>
 
 <a href="https://manus.im/invitation/WSBTKWM54XO3" target="_blank" rel="noopener noreferrer">
