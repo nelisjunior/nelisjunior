@@ -20,11 +20,11 @@
 </a>
 
 <a href="https://manus.im/invitation/WSBTKWM54XO3" target="_blank" rel="noopener noreferrer">
-  <img alt="Manus.im Referral Badge" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/manus.png" width="80"/>
+  <img alt="Manus.im Referral Badge" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/manus.png" width="5%"/>
 </a>
 
 <a href="https://replit.com/refer/nelisjunior">
-  <img alt="Replit Referral Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="7%" target="_blank" rel="noopener noreferrer"/>
+  <img alt="Replit Referral Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="5%" target="_blank" rel="noopener noreferrer"/>
 </a>
 
 <a href="https://www.dio.me/sign-up?ref=AFCUF00V3E44">
